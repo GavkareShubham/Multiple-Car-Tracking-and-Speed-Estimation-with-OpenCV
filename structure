@@ -1,0 +1,12 @@
+CarSpeedEstimator/
+│
+├── include/
+│   └── CarTracker.hpp
+│
+├── 
+│   ├── CarTracker.cpp
+│   └── main.cpp
+│
+├── haarcascade_car.xml
+├── CMakeLists.txt
+└── README.md
